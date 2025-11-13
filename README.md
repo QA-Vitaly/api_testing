@@ -53,4 +53,5 @@
 ### 📱 Полный цикл тестирования:
 - [🛒 Тестирование интернет-магазина](https://github.com/QA-Vitaly/web_testing)
 - [🌐 API тестирование](https://github.com/QA-Vitaly/api_testing) - этот проект
-- [🐬 Тестирование БД](https://github.com/QA-Vitaly/MySQL) 
+- [🐬 Тестирование БД](https://github.com/QA-Vitaly/MySQL)
+- [🔍 Charles Proxy](https://github.com/QA-Vitaly/Charles-Proxy)
